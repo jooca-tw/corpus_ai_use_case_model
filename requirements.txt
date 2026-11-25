@@ -1,0 +1,8 @@
+# 我們實際使用的版本（Python 3.11）。
+# PyTorch 請先依自己的 CUDA 版本從 https://pytorch.org 安裝（我們用 torch 2.10.0），這裡不列，避免被換掉。
+transformers==5.5.4
+peft==0.19.1
+accelerate==1.13.0
+datasets==4.8.4
+bitsandbytes==0.49.2   # 只有用 --load_in_4bit（QLoRA）時需要
+tqdm

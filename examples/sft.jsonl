@@ -1,0 +1,3 @@
+{"messages": [{"role": "user", "content": "請用一句話介紹臺灣的夜市。"}, {"role": "assistant", "content": "臺灣的夜市是晚上才開的市集，有各式各樣的小吃、遊戲和商品，是在地人和觀光客都喜歡去的地方。"}]}
+{"messages": [{"role": "user", "content": "My recipe makes 12 dumplings for 3 people. How many dumplings do I need for 5 people?"}, {"role": "assistant", "content": "That is 4 dumplings per person, so for 5 people you need 20 dumplings."}]}
+{"messages": [{"role": "system", "content": "你是一位有禮貌的助理。"}, {"role": "user", "content": "1 加 1 等於多少？"}, {"role": "assistant", "content": "1 加 1 等於 2。"}, {"role": "user", "content": "那 2 加 2 呢？"}, {"role": "assistant", "content": "2 加 2 等於 4。"}]}
